@@ -1,0 +1,26 @@
+{
+"template" : "data.tex",
+"lang" : "french",
+"bookoptions" : [
+    "diagram",
+    "lilypond",
+    "pictures"
+  ],
+"booktype" : "chorded",
+"subtitle" : "Tome 1",
+"content" : [
+    "noir_desir/aux_sombres_heros_de_l_amer.sg",
+    "noir_desir/elle_va_ou_elle_veut.sg",
+    "noir_desir/ernestine.sg",
+    "noir_desir/si_rien_ne_bouge.sg",
+    "noir_desir/toujours_etre_ailleurs.sg",
+    "noir_desir/le_fleuve.sg",
+    "noir_desir/joey_i.sg",
+    "john_lennon/working_class_hero.sg"
+  ],
+"authwords" : {
+  "sep" : ["and", "et"]
+  },
+ "datadir" : "..",
+ "encoding" : "utf8"
+}

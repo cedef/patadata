@@ -1,0 +1,15 @@
+{
+"template" : "data.tex",
+"lang" : "french",
+"bookoptions" : [
+    "diagram",
+    "lilypond"
+],
+"authwords" : {"sep" : []},
+"datadir" : "/mnt/data/guitare/patadata",
+"content" : [
+    "hugues_aufray/celine.sg",
+    "hugues_aufray/santiano.sg",
+    "san_fermin/methuselah.sg"
+  ]
+}
