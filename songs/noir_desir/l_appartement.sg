@@ -1,0 +1,98 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{L'appartement}
+  [by={Noir\ Désir},cov={des-visages-des-figures},album={Des visages et des figures}]
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{F}{1:022100}
+  \gtab{G/F#}{220003}
+  \gtab{G/F}{120003}
+  \gtab{G}{320003}
+  \gtab{Em}{022000}
+
+  \begin{verse}
+      \[Am]Attends-toi, à c'que je me traîne
+      A tes\[F] pieds, Laura, j'ai constaté que même
+      Un sil\[G]ence de toi, pouvait pousser mon rire à mour\[Am]ir
+  \end{verse}
+
+
+  \begin{verse}
+      \[Am]Attends-moi, toi tu es la reine
+      Des somm\[Em]ets, l'orage sévit dans les plaines
+      Tu ne m'\[G]entends pas, je \[G/F#] suis parasité malgr\[G/F]é moi\[Am]
+  \end{verse}
+ 
+  \begin{verse}
+      Elle a s\[G]u, simpleme\[Am]nt
+      Enferm\[G]er mon coeur dans s\[F]on appartem\[Am]ent
+  \end{verse}
+ 
+  \begin{verse}
+      Avec \[Am]ou sans toi, j'ai quelques problèmes
+      Tu t'en f\[F]ous, Laura, j'suis désolé quand même
+      Si tu v\[G]as par-là, ça me convient aussi dépose-m\[Am]oi
+  \end{verse}
+ 
+ 
+Enc\[Am]ore une fois, c'est d'en bas que j'appelle
+Elle se p Em  enche parfois de son nid d'hirondelle
+ G Daigne me recevoir, ne  G/F# me laisse pas de p G/F lace pour m'ass Am  eoir
+ 
+ 
+Elle a  G su, simplement Am 
+Changer l G es clefs de son c F  oeur
+Et de l'appartem Am  ent
+ 
+ 
+ Am  Attends-toi, à c'que je me traîne
+A tes pi G  eds, Laura, en attendant je sais
+Que le  F jour viendra, où je p Em ourrai en mourir de rir Am  e
+
+
+  \begin{verse*}
+    \musicnote{Pont : \nolyrics{ \[Am] \[F] \[G] \[Am]\rep{2} }}
+  \end{verse*}
+
+\begin{repeatedchords}
+  \begin{verse}
+    Parfums de Ch\[F]ine
+    Ou bien \[G]de n'importe qu\[Am]oi
+    Et ton Aust\[F]in
+    Qui of course\[G] ne démarre p\[Am]as \[G]
+    Dors c'est m\[Am]ieux \[G]
+    Ou cherche des \[Am]yeux \[G]
+    Le prochain c\[F]lown qui te gu\[G]ette
+  \end{verse}
+\end{repeatedchords}
+
+  \begin{chorus}
+    \[Am]  Ernest\[F]ine
+    \[Am]  Ernest\[F]ine
+    \[Em]  Tu entends des voi\[F]x, reste dig\[G]ne
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote{Pont : \nolyrics{ \[Am] \[F] \[G] \[E] \[Am]\rep{2} }}
+  \end{verse*}
+
+\begin{repeatedchords}
+  \begin{verse}
+    Ernest\[F]ine
+    Les places s\[G]ont chères ici-b\[Am]as
+    Le chant des c\[F]imes
+    S'atteint \[G]ou ne s'atteint p\[Am]as \[G]
+    Passe les nui\[Am]ts \[G]
+    Chasse les br\[Am]uits
+    Il y en a d'aut\[F]res qui te sui\[G]vent
+  \end{verse}
+
+  \begin{chorus}
+    \[Am]  Ernest\[F]ine
+    \[Am]  Ernest\[F]ine
+    \[Em]  Tu entends des voi\[F]x, reste dig\[G]ne
+    \[Am]   Ernest\[F]iiiiii\[G]iiiine \[Am] \rep{4}
+    \[Am] \[F] \[G] \[E] \[Am]
+  \end{chorus}
+\end{repeatedchords}
+\endsong

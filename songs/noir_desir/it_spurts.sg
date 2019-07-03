@@ -1,0 +1,73 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{It Spurts}
+  [by={Noir\ Désir},cov={tostaky},album={Tostaky}]
+  \cover
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+  \gtab{D}{XX0232}
+  \gtab{F}{1:022100}
+
+  \begin{verse*}
+    \musicnote{\Intro : \[C] \[G] \[Am]\nolyrics{ \rep{8} }}
+  \end{verse*}
+
+  \begin{verse}
+  Nobody I'll drag me into this stinking thoughts I know you
+  You won't never carry it off even if you're kind with me
+  Get out leave me alone
+  And have a nice day asshole
+  I know why you're a pretty cynic shit that I can't stand anymore
+  So sorry about that but I feel like you pick on me boy
+  Get out leave me alone
+  And have a nice day asshole
+
+  \end{verse}
+
+  \begin{verse*}
+    \musicnote{Pont : \nolyrics{ \[Am] \[F] \[G] \[Am]\rep{2} }}
+  \end{verse*}
+
+\begin{repeatedchords}
+  \begin{verse}
+    Parfums de Ch\[F]ine
+    Ou bien \[G]de n'importe qu\[Am]oi
+    Et ton Aust\[F]in
+    Qui of course\[G] ne démarre p\[Am]as \[G]
+    Dors c'est m\[Am]ieux \[G]
+    Ou cherche des \[Am]yeux \[G]
+    Le prochain c\[F]lown qui te gu\[G]ette
+  \end{verse}
+\end{repeatedchords}
+
+  \begin{chorus}
+    \[Am]  Ernest\[F]ine
+    \[Am]  Ernest\[F]ine
+    \[Em]  Tu entends des voi\[F]x, reste dig\[G]ne
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote{Pont : \nolyrics{ \[Am] \[F] \[G] \[E] \[Am]\rep{2} }}
+  \end{verse*}
+
+\begin{repeatedchords}
+  \begin{verse}
+    Ernest\[F]ine
+    Les places s\[G]ont chères ici-b\[Am]as
+    Le chant des c\[F]imes
+    S'atteint \[G]ou ne s'atteint p\[Am]as \[G]
+    Passe les nui\[Am]ts \[G]
+    Chasse les br\[Am]uits
+    Il y en a d'aut\[F]res qui te sui\[G]vent
+  \end{verse}
+
+  \begin{chorus}
+    \[Am]  Ernest\[F]ine
+    \[Am]  Ernest\[F]ine
+    \[Em]  Tu entends des voi\[F]x, reste dig\[G]ne
+    \[Am]   Ernest\[F]iiiiii\[G]iiiine \[Am] \rep{4}
+    \[Am] \[F] \[G] \[E] \[Am]
+  \end{chorus}
+\end{repeatedchords}
+\endsong
